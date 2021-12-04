@@ -1,0 +1,11 @@
+start input
+1pdegree 3
+2numelem 100
+3righcoord 10
+4ftime 0.0
+5dt 1.0
+6CFL_use 1
+7advspeed 1
+8CFL 0.5
+
+
